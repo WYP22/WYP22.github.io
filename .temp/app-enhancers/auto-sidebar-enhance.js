@@ -1,0 +1,1 @@
+export default ({ siteData, options }) => { siteData.themeConfig.sidebar = {"/javascript/":[{"title":"Javascript","collapsable":false,"sidebarDepth":1,"children":["j-aaa","j-bbb","j-ccc"]}],"/css/":[{"title":"Css","collapsable":false,"sidebarDepth":1,"children":["","c-aaa","c-bbb","c-ccc"]}]} }
